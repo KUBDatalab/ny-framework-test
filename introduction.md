@@ -98,13 +98,19 @@ accessibility purposes'}`
 
 
 ```r
-mean(
+mean()
 ```
 
 ```{.error}
-Error: <text>:2:0: unexpected end of input
-1: mean(
-   ^
+Error in mean.default(): argument "x" is missing, with no default
+```
+
+```r
+print("Hvad hvis vi faktisk ændrer på markuppen?")
+```
+
+```{.output}
+[1] "Hvad hvis vi faktisk ændrer på markuppen?"
 ```
 
 
