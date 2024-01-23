@@ -91,7 +91,8 @@ Or you can use standard markdown for static figures with the following syntax:
 accessibility purposes'}`
 
 ```{r}
-mean(
+mean()
+print("Hvad hvis vi faktisk ændrer på markuppen?")
 ```
 
 
