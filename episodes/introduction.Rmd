@@ -93,6 +93,7 @@ accessibility purposes'}`
 ```{r}
 mean()
 print("Hvad hvis vi faktisk ændrer på markuppen?")
+print("Hvad hvis vi faktisk ændrer på markuppen?")
 ```
 
 
