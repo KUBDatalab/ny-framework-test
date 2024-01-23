@@ -96,6 +96,16 @@ Or you can use standard markdown for static figures with the following syntax:
 `![optional caption that appears below the figure](figure url){alt='alt text for
 accessibility purposes'}`
 
+
+```r
+1 %>% mean()
+```
+
+```{.error}
+Error in 1 %>% mean(): could not find function "%>%"
+```
+
+
 ![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
 
 ::::::::::::::::::::::::::::::::::::: callout
