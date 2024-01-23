@@ -113,6 +113,14 @@ print("Hvad hvis vi faktisk ændrer på markuppen?")
 [1] "Hvad hvis vi faktisk ændrer på markuppen?"
 ```
 
+```r
+print("Hvad hvis vi faktisk ændrer på markuppen?")
+```
+
+```{.output}
+[1] "Hvad hvis vi faktisk ændrer på markuppen?"
+```
+
 
 ![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
 
