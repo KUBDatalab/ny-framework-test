@@ -91,6 +91,7 @@ jobs:
           sandpaper::package_cache_trigger(TRUE)
           sandpaper::validate_lesson(path = '${{ github.workspace }}')
           sandpaper:::build_markdown(path = '${{ github.workspace }}', quiet = FALSE)
+          print("debug")
           print(getwd())
         shell: Rscript {0}
 
