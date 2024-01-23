@@ -59,5 +59,6 @@ jobs:
           sandpaper::package_cache_trigger(TRUE)
           print("DEBUG")
           print(getwd())
+          print(list.files(pattern = "*", recursive = TRUE))
           sandpaper:::ci_deploy(reset = reset)
         shell: Rscript {0}
