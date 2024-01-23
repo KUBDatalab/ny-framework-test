@@ -98,11 +98,13 @@ accessibility purposes'}`
 
 
 ```r
-1 %>% mean()
+mean(
 ```
 
 ```{.error}
-Error in 1 %>% mean(): could not find function "%>%"
+Error: <text>:2:0: unexpected end of input
+1: mean(
+   ^
 ```
 
 
