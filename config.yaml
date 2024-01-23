@@ -27,13 +27,13 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-rmd' # FIXME
+source: 'kubkalender.kb.dk' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'kubdatalab@kb.dk' # FIXME
 
 # Navigation ------------------------------------------------
 #
@@ -58,17 +58,17 @@ contact: 'team@carpentries.org' # FIXME
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
